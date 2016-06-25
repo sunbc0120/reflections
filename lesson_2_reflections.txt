@@ -39,3 +39,7 @@ tree structure. neat!
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 they merge two branch into one. it's logical and intuitive!
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+"Automatic merging" is much efficient when there is no conflict. but is dangerous when there is. "Manually merging" is necessary to solve conflict, but tedious whenever there is no such.
