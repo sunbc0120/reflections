@@ -20,7 +20,17 @@ add several changes under one logic and commit them all together.
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
 git branches
+
+list all branches
+
+git checkout -b <branches name> =
 git branches <branches name>
 git checkout <branches name>
 
 do crazy stuff without worrying.
+
+git log --graph --oneline master coins
+
+How do the diagrams help you visualize the branch structure?
+
+tree structure. neat!
