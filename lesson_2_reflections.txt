@@ -34,3 +34,8 @@ git log --graph --oneline master coins
 How do the diagrams help you visualize the branch structure?
 
 tree structure. neat!
+
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+they merge two branch into one. it's logical and intuitive!
