@@ -12,3 +12,7 @@ Describe the differences between forks, clones, and branches. When would you use
 forks from other's repository to own's repository
 clone from own repository to own's local computer
 branches from master to have a beta version
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+Collaboration
